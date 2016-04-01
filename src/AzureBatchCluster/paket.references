@@ -1,0 +1,15 @@
+Azure.Batch
+Hyak.Common
+Microsoft.Azure.Common
+Microsoft.Azure.Common.Dependencies
+Microsoft.Azure.KeyVault.Core
+Microsoft.Bcl
+Microsoft.Bcl.Async
+Microsoft.Bcl.Build
+Microsoft.Data.Edm
+Microsoft.Data.OData
+Microsoft.Data.Services.Client
+Microsoft.Net.Http
+Newtonsoft.Json
+System.Spatial
+WindowsAzure.Storage

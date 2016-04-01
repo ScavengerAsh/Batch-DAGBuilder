@@ -1,4 +1,20 @@
 source https://nuget.org/api/v2
+nuget Azure.Batch 3.1.0 framework: >= net45
+nuget Hyak.Common 1.0.2 framework: >= net45
+nuget Microsoft.Azure.Common 2.1.0 framework: >= net45
+nuget Microsoft.Azure.Common.Dependencies 1.0.0 framework: >= net45
+nuget Microsoft.Azure.KeyVault.Core 1.0.0 framework: >= net45
+nuget Microsoft.Bcl 1.1.9 framework: >= net45
+nuget Microsoft.Bcl.Async 1.0.168 framework: >= net45
+nuget Microsoft.Bcl.Build 1.0.14 framework: >= net45
+nuget Microsoft.Data.Edm 5.6.4
+nuget Microsoft.Data.OData 5.6.4
+nuget Microsoft.Data.Services.Client 5.6.4
+nuget Microsoft.Net.Http 2.2.22 framework: >= net45
+nuget Microsoft.WindowsAzure.ConfigurationManager 1.8.0.0 framework: >= net45
+nuget Newtonsoft.Json 6.0.8
+nuget System.Spatial 5.6.4
+nuget WindowsAzure.Storage 6.2.0
 
 group Build
   source https://nuget.org/api/v2
