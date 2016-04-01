@@ -1,0 +1,15 @@
+Azure.Batch
+Hyak.Common
+Microsoft.Azure.Common
+Microsoft.Azure.Common.Dependencies
+Microsoft.Bcl
+Microsoft.Bcl.Async
+Microsoft.Bcl.Build
+Microsoft.Data.Edm
+Microsoft.Data.OData
+Microsoft.Data.Services.Client
+Microsoft.Net.Http
+Microsoft.WindowsAzure.ConfigurationManager
+Newtonsoft.Json
+System.Spatial
+WindowsAzure.Storage
